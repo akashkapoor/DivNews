@@ -1,0 +1,183 @@
+var data = {
+    "clusters": [
+        {
+            "tweets": [
+                {
+                    "date": "Fri May 12 02:13:14 +0000 2017", 
+                    "text": "RT @mkoplow: I love that in Trump\u2019s own version of the Comey dinner, he still acted improperly https://t.co/OayVRGGp2h", 
+                    "handle": "themarcon", 
+                    "name": "Marcos", 
+                    "img": "https://static01.nyt.com/images/2017/05/12/us/12comey1/12comey1-facebookJumbo.jpg"
+                }, 
+                {
+                    "date": "Fri May 12 02:13:14 +0000 2017", 
+                    "text": "RT @Honey17011: In a Private Dinner, Trump Demanded Loyalty. Comey Demurred. #DemForce #TheResistance  https://t.co/IujlRGAALI", 
+                    "handle": "jnagle4995", 
+                    "name": "James Nagle", 
+                    "img": "https://static01.nyt.com/images/2017/05/12/us/12comey1/12comey1-facebookJumbo.jpg"
+                }, 
+                {
+                    "date": "Fri May 12 02:13:13 +0000 2017", 
+                    "text": "RT @MushadaMama: trump doesn't want to be president, \n\nhe wants to be Godfather. https://t.co/K1AMTDvc2Y", 
+                    "handle": "TassajaraRd", 
+                    "name": "JustSusan", 
+                    "img": "https://static01.nyt.com/images/2017/05/12/us/12comey1/12comey1-facebookJumbo.jpg"
+                }, 
+                {
+                    "date": "Fri May 12 02:13:13 +0000 2017", 
+                    "text": "RT @tedlieu: Read the last two sentences. Why isn't this obstruction of justice? https://t.co/moqwLTl0G1", 
+                    "handle": "BoccaJim", 
+                    "name": "BoccaPura", 
+                    "img": "https://cdn1.nyt.com/images/2017/05/12/us/politics/72443_10comey-group-analysis/72443_10comey-group-analysis-videoSixteenByNine1050.jpg"
+                }, 
+                {
+                    "date": "Fri May 12 02:13:13 +0000 2017", 
+                    "text": "RT @tedlieu: Read the last two sentences. Why isn't this obstruction of justice? https://t.co/moqwLTl0G1", 
+                    "handle": "politicaljoe12", 
+                    "name": "Joe Schmoe", 
+                    "img": "https://cdn1.nyt.com/images/2017/05/12/us/politics/72443_10comey-group-analysis/72443_10comey-group-analysis-videoSixteenByNine1050.jpg"
+                }, 
+                {
+                    "date": "Fri May 12 02:13:12 +0000 2017", 
+                    "text": "RT @Susan_Hennessey: I wonder whose account is more credible and accurate here: James Comey or Donald Trump. https://t.co/Ng4DTlgbjZ", 
+                    "handle": "ManchurianDevil", 
+                    "name": "James Stanhope", 
+                    "img": "https://static01.nyt.com/images/2017/05/12/us/12comey1/12comey1-facebookJumbo.jpg"
+                }, 
+                {
+                    "date": "Fri May 12 02:13:12 +0000 2017", 
+                    "text": "RT @mikebarnicle: @nytmike with great reporting:  https://t.co/rO0Rdxog7o", 
+                    "handle": "DukeStJournal", 
+                    "name": "@DukeStJournal", 
+                    "img": "https://static01.nyt.com/images/2017/05/12/us/12comey1/12comey1-facebookJumbo.jpg"
+                }, 
+                {
+                    "date": "Fri May 12 02:13:12 +0000 2017", 
+                    "text": "RT @ericgeller: Trump repeatedly asked Comey to \"pledge his loyalty to him\" at a private dinner. https://t.co/GCxp4vtF2U https://t.co/KX4OR\u2026", 
+                    "handle": "TJBrown911", 
+                    "name": "TJ Brown", 
+                    "img": "https://static01.nyt.com/images/2017/05/12/us/12comey1/12comey1-facebookJumbo.jpg"
+                }, 
+                {
+                    "date": "Fri May 12 02:13:12 +0000 2017", 
+                    "text": "RT @HotlineJosh: In a Private Dinner, Trump Demanded Loyalty. Comey Demurred., via @nytimes https://t.co/c1fDDsgbj8", 
+                    "handle": "dad2rem", 
+                    "name": "Steve Ryan", 
+                    "img": "https://static01.nyt.com/images/2017/05/12/us/12comey1/12comey1-facebookJumbo.jpg"
+                }, 
+                {
+                    "date": "Fri May 12 02:13:10 +0000 2017", 
+                    "text": "RT @NoahCRothman: This could become a real problem for the White House. A very real problem. https://t.co/LVbCIMphEp https://t.co/1TWkc4DSb4", 
+                    "handle": "DorMouseSez", 
+                    "name": "TheDorMouse", 
+                    "img": "https://cdn1.nyt.com/images/2017/05/12/us/politics/72443_10comey-group-analysis/72443_10comey-group-analysis-videoSixteenByNine1050.jpg"
+                }, 
+                {
+                    "date": "Fri May 12 02:13:10 +0000 2017", 
+                    "text": "In a Private Dinner, Trump Demanded Loyalty. Comey Demurred. https://t.co/0oWO9EqrCC", 
+                    "handle": "CanPat", 
+                    "name": "Pat Canady", 
+                    "img": "https://static01.nyt.com/images/2017/05/12/us/12comey1/12comey1-facebookJumbo.jpg"
+                }, 
+                {
+                    "date": "Fri May 12 02:13:10 +0000 2017", 
+                    "text": "RT @davidaxelrod: Apparently the @POTUS dislikes \"showboating\" and \"grandstanding.\" Who knew? https://t.co/u0qFmzHLEQ NYTimes:", 
+                    "handle": "DBrusini", 
+                    "name": "Deborah Brusini", 
+                    "img": "https://static01.nyt.com/images/2017/05/12/us/12trump/12trump-facebookJumbo.jpg"
+                }
+            ], 
+            "headline": "In a Private Dinner, Trump Demanded Loyalty. Comey Demurred.", 
+            "summary": "Later in the dinner, Mr. Trump again said to Mr. Comey that he needed his loyalty.\nMr. Trump told NBC that Mr. Comey requested it to ask to keep his job.\nMr. Comey told Mr. Trump that the country would be best served by an independent F.B.I.\nAdvertisement Continue reading the main storyMr. Trump did not say whether he asked Mr. Comey for his loyalty.\nAdvertisement Continue reading the main storyBut Mr. Trump pressed him on whether it would be \u201chonest loyalty.\u201d\u201cYou will have that,\u201d Mr. Comey told his associates he responded.", 
+            "tweet_text": "RT @mkoplow: I love that in Trump\u2019s own version of the Comey dinner, he still acted improperly https://t.co/OayVRGGp2h", 
+            "main_img": "https://static01.nyt.com/images/2017/05/12/us/12comey1/12comey1-facebookJumbo.jpg"
+        }, 
+        {
+            "tweets": [
+                {
+                    "date": "Fri May 12 02:13:13 +0000 2017", 
+                    "text": "RT @JuddLegum: 1. Trump will come to regret his interview with Lester Holt https://t.co/7igrhfpIK9", 
+                    "handle": "Twytterpaytyd", 
+                    "name": "TJ's #DemForce", 
+                    "img": "https://cdn-images-1.medium.com/focal/1200/632/41/46/1*F4mntrYxOhHDPVE4h-FbuQ.jpeg"
+                }, 
+                {
+                    "date": "Fri May 12 02:13:13 +0000 2017", 
+                    "text": "In Interview, Trump Calls Comey 'Showboat,' Denies Colluding With Russia https://t.co/AxajR7mwcT https://t.co/SoQy6Z3ucm", 
+                    "handle": "VOANews", 
+                    "name": "The Voice of America", 
+                    "img": "https://gdb.voanews.com/46E3F898-82C4-4E45-A823-F426F82A0ACE_mw1024_mh1024_r1_s.jpg"
+                }, 
+                {
+                    "date": "Fri May 12 02:13:13 +0000 2017", 
+                    "text": "RT @chargergreg2: Kurt  Schlichter - Trump Cans Comey Like A Boss https://t.co/YfTNuNR49D", 
+                    "handle": "CardenasElanie", 
+                    "name": "Elanie Cardenas", 
+                    "img": "https://media.townhall.com/townhall/reu/ha/2017/129/de914eae-8981-4b29-ae9a-cb05eacc8e89.jpg"
+                }, 
+                {
+                    "date": "Fri May 12 02:13:12 +0000 2017", 
+                    "text": "Timeline: Trump contradicts White House on why Comey was fired: https://t.co/ijsXKkwvF2", 
+                    "handle": "darkspuds", 
+                    "name": "Spud Robinson", 
+                    "img": "http://i2.cdn.cnn.com/cnnnext/dam/assets/170418062427-donald-trump-mike-pence-march-28-2017-super-tease.jpg"
+                }, 
+                {
+                    "date": "Fri May 12 02:13:12 +0000 2017", 
+                    "text": "RT @RawStory: Trump demanded loyalty from FBI director James Comey \u2014 \u2018Comey demurred\u2019 and then he was fired: NYT https://t.co/l4mcFAM9Q6 ht\u2026", 
+                    "handle": "typhanieluv", 
+                    "name": "ObamaCrat", 
+                    "img": "http://www.rawstory.com/wp-content/uploads/2017/05/james-comey-hearing2-800x430.jpg"
+                }, 
+                {
+                    "date": "Fri May 12 02:13:11 +0000 2017", 
+                    "text": "RT @ProPublica: We reached out to Comey for our latest piece. Here\u2019s what he said: https://t.co/5jTzBuPa2X https://t.co/KmeNCIKIIc", 
+                    "handle": "DeanAntonioNYU", 
+                    "name": "Dean Antonio", 
+                    "img": "https://www.propublica.org/images/ngen/gypsy_og_image/20170511-trump-v-comey-1200x630.jpg"
+                }, 
+                {
+                    "date": "Fri May 12 02:13:10 +0000 2017", 
+                    "text": "RT @Newsweek: Kamala Harris renews calls for Attorney General Jeff Sessions to resign https://t.co/gJHcMNf9Zm", 
+                    "handle": "deb_schiel", 
+                    "name": "Deb Schiel", 
+                    "img": "http://s.newsweek.com/sites/www.newsweek.com/files/2017/04/21/jeff-sessions.jpg"
+                }
+            ], 
+            "headline": "Trump admits everything the White House has been saying about why he fired Comey is a lie", 
+            "summary": "\u201cAnd did you ask him, \u2018Am I under investigation?\u2019\u201d Holt asked.\nHolt pushed back, noting that in the letter to Comey, Trump wrote that he was acting on a recommendation from Attorney General Jeff Sessions and Rosenstein.\n\u201cI was going to fire Comey \u2014 my decision,\u201d Trump told Holt.\n\u201cI was going to fire regardless of recommendation,\u201d Trump said.\n\u201cI said, \u2018If it\u2019s possible, will you let me know, am I under investigation?\u2019 He said, \u2018You are not under investigation.\u2019\u201dTrump also indicates that Comey wanted to keep his job.", 
+            "tweet_text": "RT @JuddLegum: 1. Trump will come to regret his interview with Lester Holt https://t.co/7igrhfpIK9", 
+            "main_img": "https://cdn-images-1.medium.com/focal/1200/632/41/46/1*F4mntrYxOhHDPVE4h-FbuQ.jpeg"
+        }, 
+        {
+            "tweets": [
+                {
+                    "date": "Fri May 12 02:13:12 +0000 2017", 
+                    "text": "RT @EricBoehlert: 73% want independent Russia investigation--and that was *before* Comey bombshell; https://t.co/Lz27fBOLfV", 
+                    "handle": "cemck", 
+                    "name": "Clara McKenzie", 
+                    "img": "http://media.nbcnewyork.com/images/1200*761/quien-es-putin17.jpg"
+                }
+            ], 
+            "headline": "73 Percent Back Independent Probe of Russian Election Meddling: Poll", 
+            "summary": "Acting FBI director Andrew McCabe says the Russia probe is still ongoing.\nCommittees in both the House and Senate are looking into Russia's involvement in the 2016 election, but nearly three-quarters of Americans would prefer an independent, non-partisan commission, according to the latest NBC News/Wall Street Journal poll.\nThe poll of 900 adults has an overall margin of error of plus or minus 3.3 percentage points.\nA majority of Americans, 54 percent, do believe that that Congress should investigate whether there was contact between the Russian government and the Trump campaign.\n(Published Thursday, May 11, 2017)But 61 percent say they have little to no confidence in Congress conducting a fair or impartial investigation.", 
+            "tweet_text": "RT @EricBoehlert: 73% want independent Russia investigation--and that was *before* Comey bombshell; https://t.co/Lz27fBOLfV", 
+            "main_img": "http://media.nbcnewyork.com/images/1200*761/quien-es-putin17.jpg"
+        }, 
+        {
+            "tweets": [
+                {
+                    "date": "Fri May 12 02:13:13 +0000 2017", 
+                    "text": "RT @stevebenen: WH says it wants to see Russia probe end &amp; Trump took \"steps to make that happen\" with Comey firing https://t.co/i6xECkkIqn\u2026", 
+                    "handle": "IndivisibleAme1", 
+                    "name": "Indivisible America", 
+                    "img": "http://www.msnbc.com/sites/msnbc/files/styles/ratio--1_91-1--1200x630/public/gettyimages-513197970.jpg?itok=dxSuufP_"
+                }
+            ], 
+            "headline": "White House connects Comey firing, 'conclusion' of Russia probe", 
+            "summary": "Two days ago, in a Fox News interview, Sanders, the president\u2019s principal deputy press secretary, said the White House wants the investigation into the Russia scandal to end.\nCNN\u2019s report characterized this as a \u201csurprising admission from the White House that Comey\u2019s sudden dismissal on Tuesday may have an effect on the Russia probe.\u201dThat\u2019s right.In terms of the context, the White House\u2019s contradictions reflect a degree of internal chaos.\n\u201cIt\u2019s time to move on,\u201d she argued A day later \u2013 which is to say, yesterday \u2013 during the White House press briefing, Sanders changed direction, saying the president wants the investigation to keep going.\nTrump, she said , wants Justice Department officials \u201cto continue with whatever they see appropriate and sees fit, just the same as he\u2019s encouraged the House and Senate committees to continue any ongoing investigations.\u201dAnd today, she changed back, saying the White House wants the investigation to \u201ccome to its conclusion.\u201dBut looking past the inconsistencies, the more serious concern is the White House linking Comey\u2019s firing to Team Trump\u2019s desire to see the probe end.Indeed, Sanders\u2019 language doesn\u2019t lend itself to other interpretations: she said the White House wants to see the investigation \u201ccome to its conclusion,\u201d and Donald Trump has \u201ctaken steps to make that happen\u201d by firing the director of the FBI.To hear the president\u2019s spokesperson tell it, the two things are directly connected \u2013 which is deeply problematic because the White House is supposed to say they\u2019re not related at all.If you were a Justice Department official, how would you interpret such a message from the White House?", 
+            "tweet_text": "RT @stevebenen: WH says it wants to see Russia probe end &amp; Trump took \"steps to make that happen\" with Comey firing https://t.co/i6xECkkIqn\u2026", 
+            "main_img": "http://www.msnbc.com/sites/msnbc/files/styles/ratio--1_91-1--1200x630/public/gettyimages-513197970.jpg?itok=dxSuufP_"
+        }
+    ]
+}
